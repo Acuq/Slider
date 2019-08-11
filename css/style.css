@@ -1,0 +1,28 @@
+.block {
+  position: relative;
+  width: 700px;
+  margin: 0 auto; }
+
+.slide {
+  position: absolute;
+  background: none;
+  border: none;
+  color: #fff;
+  padding: 20px; }
+
+.block__slide-left {
+  left: 0;
+  top: 150px; }
+
+.block__slide-right {
+  right: 0;
+  top: 150px; }
+
+.block__img {
+  width: 700px;
+  display: none; }
+
+.img-1 {
+  display: block; }
+
+/*# sourceMappingURL=style.css.map */
